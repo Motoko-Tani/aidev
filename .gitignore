@@ -1,1 +1,10 @@
 .venv
+# 解凍で展開されるデータフォルダ
+easy_ham/
+hard_ham/
+spam/
+
+# Jupyter の自動生成物
+.ipynb_checkpoints/
+__pycache__/
+Lesson09_ML-Practice/aclImdb/train/
